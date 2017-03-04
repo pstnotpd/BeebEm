@@ -1,0 +1,7 @@
+Debug
+Release
+*.dll
+*.opendb
+BeebEm.VC.db
+.vs
+
